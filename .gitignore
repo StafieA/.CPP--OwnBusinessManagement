@@ -26,12 +26,14 @@
 *.a
 *.lib
 
+
+
 # Executables
 *.exe
 *.out
-# Ignore specific .app files but not the gm.app folder
-!gm.app/
+
 # Ignore specific .app files
 *.app
-
+# Allow the gm.app directory and its contents
+!gm.app/
 
