@@ -29,4 +29,9 @@
 # Executables
 *.exe
 *.out
+# Ignore specific .app files but not the gm.app folder
+!gm.app/
+# Ignore specific .app files
 *.app
+
+
